@@ -1,7 +1,7 @@
 # Age and Gender prediction Model (Trained on Indian Faces)
 
 This is the Age and Gender prediction model built using Convolutional Neural Networks in Python.
-The model is built on the basis of Research Paper by [Gil Levi and Tal Hassner](https://talhassner.github.io/home/publication/2015_CVPR "Age and Gender Classification Using Convolutional Neural Networks"). The neural architecture is built as written in the paper with slight modifications according to the dataset for better perfomance.
+
 
 The dataset used are [UTKFace Dataset](https://susanqq.github.io/UTKFace/ "Large Scale Face Dataset") and [FairFace Dataset](https://arxiv.org/abs/1908.04913 "FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age") out of which Indian Race faces were seperated and the model was trained with.
 
